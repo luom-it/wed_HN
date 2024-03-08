@@ -1,6 +1,6 @@
 // Thay đổi nội dung búc thư ở đây
 var letterContent =
-  "Chúc (bạn) bé Mỹ Hạnh 8/3 vui vẻ, luôn hồn nhiên, vui vẻ, hạnh phúc trong ngày 8/3 và cả những ngày sau nữa.";
+  "Chúc Ngọc Diễm International Women's Day vui vẻ, luôn hồn nhiên hạnh phúc trong ngày này và những ngày sau nữa(ngủ mơ cũng thấy tiền...) ";
 
 // Tốc độ viết chữ. Số càng nhỏ tốc độ càng nhanh. 50 là tốc độ khá phù hợp
 durationWrite = 60;
