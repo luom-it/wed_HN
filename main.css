@@ -568,7 +568,7 @@ body {
     transform-style: preserve-3d;
     transform: rotateY(-180deg);
     transform-origin: left;
-    background-color: red;
+    background-color: rgba(255, 0, 0, 0.889);
     transition: 0.5s;
   }
 
